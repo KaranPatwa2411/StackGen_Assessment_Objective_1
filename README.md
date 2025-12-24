@@ -5,7 +5,7 @@ A simple query routing system that directs user questions to the correct agent (
 ## How to Run
 
 1. **Interactive Mode** (Chatbot):
-   ```bash
+```bash
    python main.py
 
 ```
@@ -47,7 +47,3 @@ As no real API integrations were required, agents return simple, hard-coded stri
 * `router.py`: Contains the `QueryRouter` class and intent scoring logic.
 * `agents.py`: Contains `GitHubAgent` and `LinearAgent` classes.
 * `test.py`: Unit tests for routing logic and edge cases.
-
-```
-
-```
