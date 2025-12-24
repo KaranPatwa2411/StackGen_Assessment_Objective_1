@@ -2,11 +2,30 @@
 
 A simple query routing system that directs user questions to the correct agent (GitHub vs. Linear) based on keyword intent.
 
+## Setup Instructions
+
+**Clone the repository:**
+ ```bash
+ git clone https://github.com/KaranPatwa2411/StackGen_Assessment_Objective_1.git
+```
+
+**Navigate to the project directory:**
+
+```bash
+cd StackGen_Assessment_Objective_1
+```
+
+**Prerequisites:**
+
+Python 3.6 or higher.
+
+No external libraries are required (uses standard library only).
+
 ## How to Run
 
 1. **Interactive Mode** (Chatbot):
 ```bash
-   python main.py
+python main.py
 
 ```
 
